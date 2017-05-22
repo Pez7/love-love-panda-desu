@@ -6,3 +6,44 @@ font-family: 'Raleway', sans-serif;
 */
 
 /* Escribe tu código acá debajo */
+/*
+Colores & tipografía:
+Verde - #ABE188;
+Rosa - #F78E69;
+font-family: 'Raleway', sans-serif;
+*/
+/* Escribe tu código acá debajo */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family:'Raleway', sans-serif;
+	background-color: #F78E69;
+}
+
+.titulo{
+	background-color: #F78E69;
+	color:white;
+	font-weight: bold;
+	text-align: right;
+
+}
+.encabezado{
+	font-size:30px;
+	color:white;
+	-webkit-margin-before: 1.67em;    
+    -webkit-margin-end: 61px;
+}
+#best{
+	-webkit-margin-before: 0em;    
+    -webkit-margin-end: 70px;
+    margin-bottom: 25px;
+}
+.second{
+	align-items: center;
+}
+.panda-solo{
+	height: 400px;
+    width: 980px;
+    filter: grayscale(100%);
+}
